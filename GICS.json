@@ -1,0 +1,474 @@
+{
+    "10": {
+        "name": "Energy",
+        "code": "10",
+        "industry_groups": {
+            "1010": {
+                "name": "Energy",
+                "code": "1010",
+                "industries": {
+                    "101010": {
+                        "name": "Energy Equipment & Services",
+                        "code": "101010"
+                    },
+                    "101020": {
+                        "name": "Oil, Gas & Consumable Fuels",
+                        "code": "101020"
+                    }
+                }
+            }
+        }
+    },
+    "15": {
+        "name": "Materials",
+        "code": "15",
+        "industry_groups": {
+            "1510": {
+                "name": "Materials",
+                "code": "1510",
+                "industries": {
+                    "151010": {
+                        "name": "Chemicals",
+                        "code": "151010"
+                    },
+                    "151020": {
+                        "name": "Construction Materials",
+                        "code": "151020"
+                    },
+                    "151030": {
+                        "name": "Containers & Packaging",
+                        "code": "151030"
+                    },
+                    "151040": {
+                        "name": "Metals & Mining",
+                        "code": "151040"
+                    },
+                    "151050": {
+                        "name": "Paper & Forest Products",
+                        "code": "151050"
+                    }
+                }
+            }
+        }
+    },
+    "20": {
+        "name": "Industrials",
+        "code": "20",
+        "industry_groups": {
+            "2010": {
+                "name": "Capital Goods",
+                "code": "2010",
+                "industries": {
+                    "201010": {
+                        "name": "Aerospace & Defense",
+                        "code": "201010"
+                    },
+                    "201020": {
+                        "name": "Building Products",
+                        "code": "201020"
+                    },
+                    "201030": {
+                        "name": "Construction & Engineering",
+                        "code": "201030"
+                    },
+                    "201040": {
+                        "name": "Electrical Equipment",
+                        "code": "201040"
+                    },
+                    "201050": {
+                        "name": "Industrial Conglomerates",
+                        "code": "201050"
+                    },
+                    "201060": {
+                        "name": "Machinery",
+                        "code": "201060"
+                    },
+                    "201070": {
+                        "name": "Trading Companies & Distributors",
+                        "code": "201070"
+                    }
+                }
+            },
+            "2020": {
+                "name": "Commercial & Professional Services",
+                "code": "2020",
+                "industries": {
+                    "202010": {
+                        "name": "Commercial Services & Supplies",
+                        "code": "202010"
+                    },
+                    "202020": {
+                        "name": "Professional Services",
+                        "code": "202020"
+                    }
+                }
+            },
+            "2030": {
+                "name": "Transportation",
+                "code": "2030",
+                "industries": {
+                    "203010": {
+                        "name": "Air Freight & Logistics",
+                        "code": "203010"
+                    },
+                    "203020": {
+                        "name": "Airlines",
+                        "code": "203020"
+                    },
+                    "203030": {
+                        "name": "Marine",
+                        "code": "203030"
+                    },
+                    "203040": {
+                        "name": "Road & Rail",
+                        "code": "203040"
+                    },
+                    "203050": {
+                        "name": "Transportation Infrastructure",
+                        "code": "203050"
+                    }
+                }
+            }
+        }
+    },
+    "25": {
+        "name": "Consumer Discretionary",
+        "code": "25",
+        "industry_groups": {
+            "2510": {
+                "name": "Automobiles & Components",
+                "code": "2510",
+                "industries": {
+                    "251010": {
+                        "name": "Auto Components",
+                        "code": "251010"
+                    },
+                    "251020": {
+                        "name": "Automobiles",
+                        "code": "251020"
+                    }
+                }
+            },
+            "2520": {
+                "name": "Consumer Durables & Apparel",
+                "code": "2520",
+                "industries": {
+                    "252010": {
+                        "name": "Household Durables",
+                        "code": "252010"
+                    },
+                    "252020": {
+                        "name": "Leisure Products",
+                        "code": "252020"
+                    },
+                    "252030": {
+                        "name": "Textiles, Apparel & Luxury Goods",
+                        "code": "252030"
+                    }
+                }
+            },
+            "2530": {
+                "name": "Consumer Services",
+                "code": "2530",
+                "industries": {
+                    "253010": {
+                        "name": "Hotels, Restaurants & Leisure",
+                        "code": "253010"
+                    },
+                    "253020": {
+                        "name": "Diversified Consumer Services",
+                        "code": "253020"
+                    }
+                }
+            },
+            "2540": {
+                "name": "Media",
+                "code": "2540",
+                "industries": {
+                    "254010": {
+                        "name": "Media",
+                        "code": "254010"
+                    }
+                }
+            },
+            "2550": {
+                "name": "Retailing",
+                "code": "2550",
+                "industries": {
+                    "255010": {
+                        "name": "Distributors",
+                        "code": "255010"
+                    },
+                    "255020": {
+                        "name": "Internet & Catalog Retail",
+                        "code": "255020"
+                    },
+                    "255030": {
+                        "name": "Multiline Retail",
+                        "code": "255030"
+                    },
+                    "255040": {
+                        "name": "Specialty Retail",
+                        "code": "255040"
+                    }
+                }
+            }
+        }
+    },
+    "30": {
+        "name": "Consumer Staples",
+        "code": "30",
+        "industry_groups": {
+            "3010": {
+                "name": "Food & Staples Retailing",
+                "code": "3010",
+                "industries": {
+                    "301010": {
+                        "name": "Food & Staples Retailing",
+                        "code": "301010"
+                    }
+                }
+            },
+            "3020": {
+                "name": "Food, Beverage & Tobacco",
+                "code": "3020",
+                "industries": {
+                    "302010": {
+                        "name": "Beverages",
+                        "code": "302010"
+                    },
+                    "302020": {
+                        "name": "Food Products",
+                        "code": "302020"
+                    },
+                    "302030": {
+                        "name": "Tobacco",
+                        "code": "302030"
+                    }
+                }
+            },
+            "3030": {
+                "name": "Household & Personal Products",
+                "code": "3030",
+                "industries": {
+                    "303010": {
+                        "name": "Household Products",
+                        "code": "303010"
+                    },
+                    "303020": {
+                        "name": "Personal Products",
+                        "code": "303020"
+                    }
+                }
+            }
+        }
+    },
+    "35": {
+        "name": "Health Care",
+        "code": "35",
+        "industry_groups": {
+            "3510": {
+                "name": "Health Care Equipment & Services",
+                "code": "3510",
+                "industries": {
+                    "351010": {
+                        "name": "Health Care Equipment & Supplies",
+                        "code": "351010"
+                    },
+                    "351020": {
+                        "name": "Health Care Providers & Services",
+                        "code": "351020"
+                    },
+                    "351030": {
+                        "name": "Health Care Technology",
+                        "code": "351030"
+                    }
+                }
+            },
+            "3520": {
+                "name": "Pharmaceuticals, Biotechnology & Life Sciences",
+                "code": "3520",
+                "industries": {
+                    "352010": {
+                        "name": "Biotechnology",
+                        "code": "352010"
+                    },
+                    "352020": {
+                        "name": "Pharmaceuticals",
+                        "code": "352020"
+                    },
+                    "352030": {
+                        "name": "Life Sciences Tools & Services",
+                        "code": "352030"
+                    }
+                }
+            }
+        }
+    },
+    "40": {
+        "name": "Financials",
+        "code": "40",
+        "industry_groups": {
+            "4010": {
+                "name": "Banks",
+                "code": "4010",
+                "industries": {
+                    "401010": {
+                        "name": "Banks",
+                        "code": "401010"
+                    },
+                    "401020": {
+                        "name": "Thrifts & Mortgage Finance",
+                        "code": "401020"
+                    }
+                }
+            },
+            "4020": {
+                "name": "Diversified Financials",
+                "code": "4020",
+                "industries": {
+                    "402010": {
+                        "name": "Diversified Financial Services",
+                        "code": "402010"
+                    },
+                    "402020": {
+                        "name": "Consumer Finance",
+                        "code": "402020"
+                    },
+                    "402030": {
+                        "name": "Capital Markets",
+                        "code": "402030"
+                    }
+                }
+            },
+            "4030": {
+                "name": "Insurance",
+                "code": "4030",
+                "industries": {
+                    "403010": {
+                        "name": "Insurance",
+                        "code": "403010"
+                    }
+                }
+            },
+            "4040": {
+                "name": "Real Estate",
+                "code": "4040",
+                "industries": {
+                    "404020": {
+                        "name": "Real Estate Investment Trusts (REITs)",
+                        "code": "404020"
+                    },
+                    "404030": {
+                        "name": "Real Estate Management & Development",
+                        "code": "404030"
+                    }
+                }
+            }
+        }
+    },
+    "45": {
+        "name": "Information Technology",
+        "code": "45",
+        "industry_groups": {
+            "4510": {
+                "name": "Software & Services",
+                "code": "4510",
+                "industries": {
+                    "451010": {
+                        "name": "Internet Software & Services",
+                        "code": "451010"
+                    },
+                    "451020": {
+                        "name": "IT Services",
+                        "code": "451020"
+                    },
+                    "451030": {
+                        "name": "Software",
+                        "code": "451030"
+                    }
+                }
+            },
+            "4520": {
+                "name": "Technology Hardware & Equipment",
+                "code": "4520",
+                "industries": {
+                    "452010": {
+                        "name": "Communications Equipment",
+                        "code": "452010"
+                    },
+                    "452020": {
+                        "name": "Technology Hardware, Storage & Peripherals",
+                        "code": "452020"
+                    },
+                    "452030": {
+                        "name": "Electronic Equipment, Instruments & Components",
+                        "code": "452030"
+                    }
+                }
+            },
+            "4530": {
+                "name": "Semiconductors & Semiconductor Equipment",
+                "code": "4530",
+                "industries": {
+                    "453010": {
+                        "name": "Semiconductors & Semiconductor Equipment",
+                        "code": "453010"
+                    }
+                }
+            }
+        }
+    },
+    "50": {
+        "name": "Telecommunication Services",
+        "code": "50",
+        "industry_groups": {
+            "5010": {
+                "name": "Telecommunication Services",
+                "code": "5010",
+                "industries": {
+                    "501010": {
+                        "name": "Diversified Telecommunication Services",
+                        "code": "501010"
+                    },
+                    "501020": {
+                        "name": "Wireless Telecommunication Services",
+                        "code": "501020"
+                    }
+                }
+            }
+        }
+    },
+    "55": {
+        "name": "Utilities",
+        "code": "55",
+        "industry_groups": {
+            "5510": {
+                "name": "Utilities",
+                "code": "5510",
+                "industries": {
+                    "551010": {
+                        "name": "Electric Utilities",
+                        "code": "551010"
+                    },
+                    "551020": {
+                        "name": "Gas Utilities",
+                        "code": "551020"
+                    },
+                    "551030": {
+                        "name": "Multi-Utilities",
+                        "code": "551030"
+                    },
+                    "551040": {
+                        "name": "Water Utilities",
+                        "code": "551040"
+                    },
+                    "551050": {
+                        "name": "Independent Power and Renewable Electricity Producers",
+                        "code": "551050"
+                    }
+                }
+            }
+        }
+    }
+}
